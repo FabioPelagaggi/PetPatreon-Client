@@ -1,0 +1,4 @@
+PATREON;Vlad Tepes Draculian;lord@castle.com;65683156613;666;true
+PATREON;Alucard Tepes Draculian;warrior@castle.com;3123156613;666;false
+PATREON;Richter Belmont;richter@belmont.com;552378787878;111;true
+PATREON;Maria Renard;mari@belmont.com;552378787878;222;false

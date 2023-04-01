@@ -1,0 +1,9 @@
+DOG;Pingo;Dog;14;Female;132.5;Poodle;Small;Yes;23.4;16.7;86.299995
+DOG;Trovao;Dog;8;Male;100.5;German Shepherd;Medium;No;27.4;16.7;56.5
+DOG;Ymir;Dog;3;Male;150.5;Alaskan Malamute;Large;No;15.4;16.7;156.5
+HORSE;Eris;Horse;22;Male;406.4;Thoroughbred;13.4;15.7;30.0;449.8
+HORSE;Branca;Horse;11;Female;306.4;Shire;8.4;10.7;15.0;309.8
+HORSE;Nervoso;Horse;8;Male;206.4;Mustang;7.4;6.7;8.0;159.8
+BIRD;Astrogimecleuda;Bird;27;Female;6.5;Small;3.4;5.7;10.7
+BIRD;Dragone;Bird;15;Male;16.5;Large;3.4;5.7;30.7
+BIRD;Liara;Bird;15;Male;20.5;Small;2.4;5.4;22
